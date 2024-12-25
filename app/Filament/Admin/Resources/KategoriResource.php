@@ -22,17 +22,18 @@ class KategoriResource extends Resource
     public static function form(Form $form): Form
     {
         return $form
-            ->schema([
-                //
-            ]);
+        ->schema([  
+            Forms\Components\TextInput::make('nama_kategori')->required(),  
+        ]);  
     }
 
     public static function table(Table $table): Table
     {
         return $table
-            ->columns([
-                //
-            ])
+        ->columns([  
+            Tables\Columns\TextColumn::make('idkategori'),  
+            Tables\Columns\TextColumn::make('nama_kategori'),  
+        ])  
             ->filters([
                 //
             ])
