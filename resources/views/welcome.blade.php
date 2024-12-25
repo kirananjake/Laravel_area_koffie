@@ -65,9 +65,9 @@
                         <img src="{{ asset('koffi.jpg') }}" alt="Coffee Shop Interior" class="rounded-lg shadow-lg w-full">
                     </div>
                     <div class="md:w-1/2 md:pl-8">
-                        <p class="text-lg mb-4">Welcome to our cozy coffee haven! We're passionate about serving the finest brews and creating a warm, inviting atmosphere for our community.</p>
-                        <p class="text-lg mb-4">Our skilled baristas craft each cup with care, using ethically sourced beans from around the world. Whether you're a coffee connoisseur or just looking for a comfortable spot to relax, we've got something for everyone.</p>
-                        <p class="text-lg">Come visit us and experience the perfect blend of flavor, ambiance, and friendly service!</p>
+                        <p class="text-lg mb-4">Selamat datang di AREA KOFFIE, sebuah coffee shop yang menggabungkan keindahan floral dengan suasana yang nyaman untuk menciptakan pengalaman tak terlupakan bagi setiap pelanggan. Di AREA KOFFIE, kami menciptakan ruang yang segar dan menenangkan dengan tema floral yang indah. Setiap sudut dirancang menyerupai oasis taman, dipenuhi estetika bunga yang bermekaran untuk memberikan pengalaman relaksasi yang sempurna.</p>
+                        <p class="text-lg mb-4">Kami juga menggunakan kemasan ramah lingkungan sebagai bagian dari komitmen terhadap keberlanjutan. Pilihan minuman kami diracik dengan penuh dedikasi, menghadirkan kopi berkualitas dan minuman menyegarkan untuk melengkapi kunjungan Anda. Kami berkomitmen untuk memberikan pelayanan yang ramah, profesional, dan penuh perhatian. AREA KOFFIE adalah tempat untuk menikmati waktu santai, berbagi cerita, dan menciptakan momen-momen berharga bersama orang tersayang.</p>
+                        <p class="text-lg">JL. Malkontemon, Depan Komplek Taman Citra, Banjarmasin Utara, Kalimantan Selatan. Datanglah untuk menikmati kelezatan, tinggallah untuk keindahan, dan pulanglah dengan kebahagiaan di hati Anda. AREA KOFFIE – di mana keindahan alam dan kenyamanan cita rasa bertemu.</p>
                     </div>
                 </div>
             </div>
