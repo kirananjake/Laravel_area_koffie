@@ -65,9 +65,9 @@
                         <img src="{{ asset('koffi.jpg') }}" alt="Coffee Shop Interior" class="rounded-lg shadow-lg w-full">
                     </div>
                     <div class="md:w-1/2 md:pl-8">
-                        <p class="text-lg mb-4">Selamat datang di AREA KOFFIE, sebuah coffee shop yang menggabungkan keindahan floral dengan suasana yang nyaman untuk menciptakan pengalaman tak terlupakan bagi setiap pelanggan. Di AREA KOFFIE, kami menciptakan ruang yang segar dan menenangkan dengan tema floral yang indah. Setiap sudut dirancang menyerupai oasis taman, dipenuhi estetika bunga yang bermekaran untuk memberikan pengalaman relaksasi yang sempurna.</p>
-                        <p class="text-lg mb-4">Kami juga menggunakan kemasan ramah lingkungan sebagai bagian dari komitmen terhadap keberlanjutan. Pilihan minuman kami diracik dengan penuh dedikasi, menghadirkan kopi berkualitas dan minuman menyegarkan untuk melengkapi kunjungan Anda. Kami berkomitmen untuk memberikan pelayanan yang ramah, profesional, dan penuh perhatian. AREA KOFFIE adalah tempat untuk menikmati waktu santai, berbagi cerita, dan menciptakan momen-momen berharga bersama orang tersayang.</p>
-                        <p class="text-lg">JL. Malkontemon, Depan Komplek Taman Citra, Banjarmasin Utara, Kalimantan Selatan. Datanglah untuk menikmati kelezatan, tinggallah untuk keindahan, dan pulanglah dengan kebahagiaan di hati Anda. AREA KOFFIE – di mana keindahan alam dan kenyamanan cita rasa bertemu.</p>
+                        <p class="text-lg mb-4">Selamat datang di AREA KOFFIE, sebuah coffee shop yang memadukan keindahan floral dengan suasana nyaman. Dengan tema bunga yang segar dan menenangkan, setiap sudut dirancang menyerupai taman oasis yang memberikan pengalaman santai dan menyenangkan.</p>
+                        <p class="text-lg mb-4">Kami juga peduli terhadap lingkungan dengan menggunakan kemasan ramah lingkungan sebagai bagian dari komitmen keberlanjutan. Minuman kami diracik dengan penuh perhatian, menghadirkan kopi berkualitas dan pilihan minuman menyegarkan untuk melengkapi waktu santai Anda.</p>
+                        <p class="text-lg">AREA KOFFIE adalah tempat yang tepat untuk menikmati suasana, berbagi cerita, dan menciptakan momen berharga bersama orang tercinta. Kami berkomitmen memberikan pelayanan yang ramah, profesional, dan penuh perhatian untuk memastikan pengalaman Anda tak terlupakan.</p>
                     </div>
                 </div>
             </div>
