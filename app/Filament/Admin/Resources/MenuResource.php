@@ -16,6 +16,7 @@ use Illuminate\Database\Eloquent\SoftDeletingScope;
 class MenuResource extends Resource
 {
     protected static ?string $model = Menu::class;
+    protected static ?string $navigationLabel = 'Menu';
 
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
 
@@ -39,6 +40,8 @@ class MenuResource extends Resource
                 Tables\Columns\TextColumn::make('kategori.nama_kategori'),  
                 Tables\Columns\TextColumn::make('nama_menu'),  
                 Tables\Columns\TextColumn::make('harga'),  
+                Tables\Columns\TextColumn::make('deskripsi'),  
+                Tables\Columns\ImageColumn::make('foto'),  
             ])
             ->filters([
                 //
